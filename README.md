@@ -1,2 +1,2 @@
 # Python-practice
-This repository will have notebooks prepared as part of classroom assignments.
+This repository will have practice notebooks and python files.
